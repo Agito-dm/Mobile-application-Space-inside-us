@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color ic_launcher_background
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable draw
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button
+id imageView2
+id textView2
+id toolbar6
+id webView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+string but_name
+string text_error
+style Base.Theme.SolarApp
+style Theme.SolarApp
+style yourstyle
+xml backup_rules
+xml data_extraction_rules
